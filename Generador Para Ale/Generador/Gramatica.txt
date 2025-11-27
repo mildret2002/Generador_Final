@@ -1,0 +1,6 @@
+Lenguaje: C;
+    Producciones: Programa, Librerias, Variables, Main;
+    Tokens: identificador, numero, asignacion, caracter;
+{
+    Librerias -> #include h\? identificador\? Librerias\?\;
+}

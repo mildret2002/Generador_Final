@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\bin\Debug\net9.0\Generador.exe
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\bin\Debug\net9.0\Generador.deps.json
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\bin\Debug\net9.0\Generador.runtimeconfig.json
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\bin\Debug\net9.0\Generador.dll
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\bin\Debug\net9.0\Generador.pdb
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\Generador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\Generador.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\Generador.AssemblyInfo.cs
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\Generador.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\Generador.dll
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\refint\Generador.dll
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\Generador.pdb
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\Generador.genruntimeconfig.cache
+C:\Users\Admin\Desktop\5to semestre\Proyectos LyA2\Generador\obj\Debug\net9.0\ref\Generador.dll

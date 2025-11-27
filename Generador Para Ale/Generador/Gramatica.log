@@ -1,0 +1,40 @@
+Autor: Omar Alejandro Granados
+Fecha: 20/11/2025 09:46:36 a. m.
+Archivo: Gramatica.txt
+--------------------------------------------------
+Lenguaje = Simbolo
+: = Simbolo
+C = Simbolo
+; = Simbolo
+Producciones = Simbolo
+: = Simbolo
+Programa = Simbolo
+, = Simbolo
+Librerias = Simbolo
+, = Simbolo
+Variables = Simbolo
+, = Simbolo
+Main = Simbolo
+; = Simbolo
+Tokens = Simbolo
+: = Simbolo
+identificador = Simbolo
+, = Simbolo
+numero = Simbolo
+, = Simbolo
+asignacion = Simbolo
+, = Simbolo
+caracter = Simbolo
+; = Simbolo
+{ = Simbolo
+Librerias = Simbolo
+-> = Produce
+# = Simbolo
+include = Simbolo
+h = Simbolo
+\? = Epsilon
+identificador = Simbolo
+\? = Epsilon
+Librerias = Simbolo
+\? = Epsilon
+\; = FinProduccion
