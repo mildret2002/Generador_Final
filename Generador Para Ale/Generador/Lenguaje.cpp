@@ -10,8 +10,7 @@ using System.Threading.Tasks;
 
 /*
     Requerimiento 1: la primera produccion debe ser publica. (33%)
-    Requerimiento 2: Crear una lista de Simbolos de una produccion o subproduccion (33%)
-                    para la cerradura epsilon. Tip: Usar un "diccionario"
+   
     Requerimiento 3: Implmentar el "Or" (33%)
 */
 namespace Generador
@@ -224,3 +223,4 @@ namespace Generador
         }
     }
 }
+
